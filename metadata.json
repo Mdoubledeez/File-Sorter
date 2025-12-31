@@ -1,0 +1,5 @@
+{
+  "name": "Recursive File Architect Dashboard",
+  "description": "A high-performance management interface for the RecursiveOrganizer system, featuring real-time monitoring, deep scan visualization, and automated file categorization logic.",
+  "requestFramePermissions": []
+}
